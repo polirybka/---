@@ -107,3 +107,33 @@ nav li{
 .a{
   color: inherit;
 }
+img {  width: 700px;
+  margin: 0px auto 0;
+  padding: 0;}
+
+section{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+section div{
+  width: 100%
+
+}
+.sectionmain{
+  width: 1200px; margin: 0 auto;
+}
+section h3{
+  margin-top: 8px;
+  font-family: 'PT Sans Caption',
+  sans-serif;
+}
+section p{
+    margin-top: 8px;
+     font-family: 'PT Sans Caption',
+     sans-serif;
+     font-size: 22px;
+     line-height: 32px;
+     color: rgba(0,0,0,.4);
+}
